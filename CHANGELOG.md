@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.51.0](https://github.com/googleapis/python-genai/compare/v1.50.1...v1.51.0) (2025-11-13)
+
+
+### Features
+
+* Add display name to FunctionResponseBlob ([52906d5](https://github.com/googleapis/python-genai/commit/52906d513f22d58fda9bc177fc1f6bff003d2e61))
+
 ## [1.50.1](https://github.com/googleapis/python-genai/compare/v1.50.0...v1.50.1) (2025-11-13)
 
 
